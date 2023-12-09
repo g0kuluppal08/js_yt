@@ -18,3 +18,4 @@ console.log(str)
 let nm="   gokul uppal   "
 console.log(nm.trim())
 console.log(nm)
+console.log(nm.length())
